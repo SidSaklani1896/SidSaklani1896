@@ -13,3 +13,5 @@ Currently I'm a member of @EpicGames Developer team, and attending a lot of offl
 
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidsaklani1896&theme=vue&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsaklani1896&layout=compact)](https://github.com/sidsaklani1896/github-readme-stats)
