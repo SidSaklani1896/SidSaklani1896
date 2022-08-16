@@ -13,7 +13,6 @@ Currently I'm a member of @EpicGames Developer team, and attending a lot of offl
 
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidsaklani1896&theme=vue&show_icons=true)       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsaklani1896)](https://github.com/sidsaklani1896/github-readme-stats)
 
 
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
