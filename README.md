@@ -12,4 +12,4 @@ Currently I'm a member of @EpicGames Developer team, and attending a lot of offl
 - ⚡ Fun fact: I can solve rubiks cube under 25 Seconds .
 
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidsaklani1896&theme=dark&show_icons=true)
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidsaklani1896&theme=vue&show_icons=true)
